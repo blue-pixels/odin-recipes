@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-family: Impact,'Arial Narrow Bold', sans-serif ;
+    font-size: 72px;
+    margin-left:35%;
+}
+ 
+#recipes li {
+    font-size: 36px;
+    list-style-type:none;
+    margin-bottom: 2%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
